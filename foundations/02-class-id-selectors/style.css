@@ -1,0 +1,19 @@
+.clas {background-color: hsl(330, 69%, 82%);
+    font-family: Verdana, "DejaVu Sans", serif;
+}
+    
+.cooler {
+    font-size: 24px;
+} 
+
+#title1 {
+    font-size: 36px;
+    color: blue;
+}
+
+#title2 {
+    background-color: rgb(151, 228, 151);
+    font-size: 24px;
+    font-weight: 700;
+}
+
